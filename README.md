@@ -1,1 +1,1 @@
-This repository is mainly for teaching purposes, as a way to show of Git and GitHub.
+This repository is mainly for learning purposes, as a way to learn Git and GitHub.
